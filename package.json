@@ -1,0 +1,26 @@
+{
+  "name": "contact-app",
+  "version": "1.0.0",
+  "description": "Belajar NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dindamaylan/contact-app-nodeJS.git"
+  },
+  "author": "dindamaylan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dindamaylan/contact-app-nodeJS/issues"
+  },
+  "homepage": "https://github.com/dindamaylan/contact-app-nodeJS#readme",
+  "devDependencies": {
+    "validator": "^13.11.0",
+    "yargs": "^17.7.2"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
